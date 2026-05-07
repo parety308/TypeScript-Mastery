@@ -1,4 +1,4 @@
-# 🚀 TypeScript Mastery — Apollo Level 2 Web Dev
+# 🚀 TypeScript Mastery — Next Level AI-Driven Software Engineering Bootcamp
 
 > **Mission 1: Be a TypeScript Technocrat**
 > A complete learning journey through TypeScript — from zero to OOP mastery.
@@ -200,8 +200,18 @@ ts-node filename.ts
 
 ---
 
+
 ## 👨‍💻 Author
 
-Built with 💛 as part of the **Apollo Level 2 Web Development** program.
+**MD Parvez Hasan**  
+MERN Stack Developer
+
+- 📧 Email: parvezyesrat17032024@gmail.com 
+- 📱 Phone: +8801876097788 
+- 💼 LinkedIn: www.linkedin.com/in/md-parvez-hasan-967729344  
+- 🐙 GitHub:https://github.com/parety308
+
+
+Built with 💛 as part of the **Next Level AI-Driven Software Engineering Bootcamp** program.
 
 > *"The code and content in this repository is original work."*
